@@ -1,7 +1,7 @@
 ### Olá, meu nome é Danilo, Tudo bem?
 ##
 
-- 🔭 Eu estou trabalhando com Logistica na empresa ADIDAS;
+- 🔭 Trabalhei com logística por 5 anos.
 - 🌱 Sou estudante em ANÁLISE E DESENVOLVIMENTO DE SISTEMAS;
 - 📫 Email para contato: paranegocios123@hotmail.com;
 
